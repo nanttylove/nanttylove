@@ -22,7 +22,7 @@
  - Generate Test reports and Defect reports
  - Review the system with customers about the functionality and other customer requests.
   
-> Software Tester specialist [ January 2017 - Febuary 2019 ]
+> Software Tester specialist [ January 2017 - February 2019 ]
 - Accepting customer requirement from system analysis team and management team
  - Design and write test cases both manual and automated
  - Execute both manual and automated test cases and test plans
@@ -36,7 +36,7 @@
 - Create guide line to test with an automate test to share knowledge with the team
 - Provide support and documentation, Conduct user training to customer and Support go-live
 
-> Assistant Lead QA and Assistant project manager[ Febuary 2019 - November 2021 ]
+> Assistant Lead QA and Assistant project manager[ February 2019 - November 2021 ]
 - Accepting customer requirements
 - Define spec and scope of work
 - Identify required resources based on appropriate competencies and proficiencies level in response to the roles within the projects
@@ -71,7 +71,7 @@ For example, design the system, get work through the help desk team, via Line, F
 ** **
 <h4 style="color:DodgerBlue;"> 🏢 Sirius Technologies November 2021 - January 2022</h4>
 
-> Test automation [November 2021 - Febuary 2022]
+> Test automation [November 2021 - February 2022]
 - Accepting customer requirement through Head of QA
 - Define spec and scope of work
 - Analysing users stories, use cases and requirements for validity and feasibility
@@ -85,7 +85,7 @@ For example, design the system, get work through the help desk team, via Line, F
 <h4 style="color:DodgerBlue;"> 🏢 TMBThanachart Bank PCL Febuary 2022 - Present </h4>
 
 
-> Senior Test Engineer [ Febuary 2022 - December 2022 ]
+> Senior Test Engineer [ February 2022 - December 2022 ]
 - Accepting customer requirement through Business Analytics
 - Planning and Refinement with the Team
 - Define spec and scope of work
