@@ -97,7 +97,7 @@ For example, design the system, get work through the help desk team, via Line, F
 - Engage in functional test, DEV, SIT, UAT and Production  to ensure quality of deliverable 
 - Support with other tasks outside of the squad 
 
-> Test manager [ January 2022 - Present ]
+> Test manager [ January 2023 - Present ]
 - Accepting customer requirement with PO 
 - Planning and Refinement with the Team
 - Review of all test cases by the team
