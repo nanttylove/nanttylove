@@ -105,7 +105,7 @@ Test manager [ January 2023 - Present ]
 - Check and monitor Kibana, and Dynatrace for API testing
 - Report bugs and errors to development teams and PM team
 - Engage in functional test, DEV, SIT, UAT, and Production to ensure the quality of deliverables
-- Manage resource QA for both SIT and UAT
+- Manage resource QA for both SIT and UAT and Production (8 squads)
 - Prepare test reports and an overview report of the test
 - Leading testing between QA and user
 - Focus on urgent tasks that affect customers and set up test scopes and report results
