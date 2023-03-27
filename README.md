@@ -103,13 +103,18 @@ Test manager [ January 2023 - Present ]
 - Define the spec and scope of work
 - Analyzing user's stories, use cases, and requirements for validity and feasibility
 - Check and monitor Kibana, and Dynatrace for API testing
-- Report bugs and errors to development teams
+- Report bugs and errors to development teams and PM team
 - Engage in functional test, DEV, SIT, UAT, and Production to ensure the quality of deliverables
 - Manage resource QA for both SIT and UAT
 - Prepare test reports and an overview report of the test
 - Leading testing between QA and user
 - Focus on urgent tasks that affect customers and set up test scopes and report results
 - Support with other tasks outside of the squad
+- Support for testing on production
+- Support for urgent tasks in a limited time (Hotfix etc.)
+- Request Sine-off Test Case and Test Results for SIT UAT
+- Support various tasks related to QA
+
 
 ** **
 <h4 style="color:DodgerBlue;"> 🛠 ⛏ Tools in work  🪚 🔩 ⚙️ </h4>
@@ -121,3 +126,4 @@ Test manager [ January 2023 - Present ]
 - Postman
 - Microsoft office tools
 - VS code
+- Other tools for QA
