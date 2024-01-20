@@ -141,7 +141,7 @@
 - Create content about the company's products to promote through social media channels
 - Design new products that use technology to help work. For example, design the system, and get work through the help desk team, via Line, Facebook, etc.
 
-###### 🤦🏼‍♀️ : I love my colleagues, friends, and supervisors. Under the organization, there is a lot. Unfortunately, Covid affected me. So I had to leave...（。ˇ ⊖ˇ）
+###### 🤦🏼‍♀️ : Despite facing challenges due to the impact of Covid, I have great affection for my colleagues, friends, and supervisors within the organization. Unfortunately, the pandemic compelled me to make the difficult decision to leave...（。ˇ ⊖ˇ）
 
 ** **
 <h4 style="color:DodgerBlue;"> 🏢 Sirius Technologies November 2021 - January 2022</h4>
