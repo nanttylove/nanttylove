@@ -86,6 +86,7 @@
 
 ** **
 <h4 style="color:DodgerBlue;"> 🏢 Sourcecode co., ltd December 2015 - November 2021 </h4>
+
 > Software Tester [ December 2015 - December 2016 ]
 > 
 - Accepting customer requirements from the system analysis team and management team
