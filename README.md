@@ -97,23 +97,61 @@
 - Support with other tasks outside of the squad
 
 Test manager [ January 2023 - Present ]
-- Accepting customer requirements with PO
-- Planning and Refinement with the Team
-- Review of all test cases by the team
-- Define the spec and scope of work
-- Analyzing user's stories, use cases, and requirements for validity and feasibility
-- Check and monitor Kibana, and Dynatrace for API testing
-- Report bugs and errors to development teams and PM team
-- Engage in functional test, DEV, SIT, UAT, and Production to ensure the quality of deliverables
-- Manage resource QA for both SIT and UAT and Production (8 squads)
-- Prepare test reports and an overview report of the test
-- Leading testing between QA and user
-- Focus on urgent tasks that affect customers and set up test scopes and report results
-- Support with other tasks outside of the squad
-- Support for testing on production
-- Support for urgent tasks in a limited time (Hotfix etc.)
-- Request Sine-off Test Case and Test Results for SIT UAT
-- Support various tasks related to QA
+**Responsible for Project Oneapp:**
+- Team Fraud
+- Team Platform
+
+1. **Accepting Customer Requirements with Product Owner**
+   - Receive and understand customer requirements.
+
+2. **Planning and Refinement with the Team:**
+   - Collaborate with the team for project planning and refinement.
+
+3. **Review of All Test Cases by the Team:**
+   - Conduct comprehensive reviews of all test cases with the team.
+
+4. **Define Spec and Scope of Work:**
+   - Clearly define the specifications and scope of work for the project.
+
+5. **Analyzing User Stories, Use Cases, and Requirements:**
+   - Evaluate user stories, use cases, and requirements for validity and feasibility.
+
+6. **Check and Monitor Kibana, and Dynatrace for API Testing:**
+   - Utilize Kibana and Dynatrace for continuous monitoring of API testing.
+
+7. **Report Bugs and Errors to Development Teams:**
+   - Identify and report bugs and errors to the development teams.
+
+8. **Engage in Functional Testing (DEV, SIT, UAT, and Production):**
+   - Actively participate in functional testing across development, system integration, user acceptance, and production environments.
+
+9. **Manage Resource QA for SIT, UAT, and Production (8 Squads):**
+   - Oversee QA resources for system integration testing, user acceptance testing, and production across eight squads.
+
+10. **Prepare Test Reports and Overview Report:**
+    - Generate detailed test reports and an overall overview report.
+
+11. **Lead Testing Between QA and User:**
+    - Take a leading role in coordinating testing activities between QA and end-users.
+
+12. **Focus on Urgent Tasks Affecting Customers, Set up Test Scopes, and Report Results:**
+    - Prioritize urgent tasks affecting customers, establish test scopes, and report results.
+
+13. **Support Other Tasks Outside of the Squad:**
+    - Provide assistance with tasks beyond the immediate squad responsibilities.
+
+14. **Support for Testing on Production:**
+    - Assist in testing activities in production environments.
+
+15. **Support for Urgent Tasks in a Limited Time (Hotfix, etc.):**
+    - Respond promptly to urgent tasks, including hotfixes, within tight timeframes.
+
+16. **Request Sign-off for Test Case and Test Results for SIT UAT:**
+    - Facilitate the approval process by requesting sign-offs for test cases and results in system integration and user acceptance testing.
+
+17. **Support Various Tasks Related to QA:**
+    - Offer support in various tasks related to quality assurance.
+    - Support and manage collaboration problems between SIT UAT and Regression teams.
 
 
 ** **
